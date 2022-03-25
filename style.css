@@ -1,0 +1,34 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    margin: 0;
+    width: 100%;
+    font-size: 26px;
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: 5px 5px 5px rgb(170, 165, 165);
+}
+
+.note {
+    color: rgb(245, 229, 4);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#song_name {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: deeppink;
+    font-weight: 600;
+    color: aliceblue;
+    font-size: 24px;
+}
+
+canvas {
+    background: black;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(230, 113, 224);
+}
